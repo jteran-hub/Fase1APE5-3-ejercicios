@@ -1,0 +1,6 @@
+Nombre: Juan Paredes
+Calificacion: 9.8
+Nombre: Maria Blanca
+Calificacion: 8.5
+Nombre: Mario Torres
+Calificacion: 7.9
