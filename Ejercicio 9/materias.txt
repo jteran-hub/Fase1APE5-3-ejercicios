@@ -1,0 +1,7 @@
+Programacion
+Matematicas
+Fisica
+Algebra Lineal
+Calculo Diferencial
+Estadistica
+Estructura de Datos
