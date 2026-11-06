@@ -1,0 +1,16 @@
+Producto: Laptop
+Precio: 600.0
+Cantidad: 1
+Subtotal: $600.0
+Descuento: $60.0
+Total a pagar: $540.0
+----------------------
+Producto: Mouse
+Precio: 20.0
+Cantidad: 2
+Subtotal: $40.0
+Descuento: $0.0
+Total a pagar: $40.0
+----------------------
+TOTAL ACUMULADO DE VENTAS: $580.0
+==============================
